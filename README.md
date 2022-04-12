@@ -1,0 +1,2 @@
+# KatalonSampleCode
+Katalon sample code
